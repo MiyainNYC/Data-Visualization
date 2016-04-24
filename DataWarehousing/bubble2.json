@@ -1,0 +1,122 @@
+{
+ "name": "bubbles",
+ "children": [
+  {
+   "name": "States",
+   "children": [
+    {
+     "name": "A",
+     "children": [
+      {"name": "Alabama", "size": 53},
+      {"name": "Arizona", "size": 75},
+      {"name": "Arkansas", "size": 32},
+      {"name": "Alaska", "size": 16}
+     ]
+    },
+    {
+     "name": "C",
+     "children": [
+      {"name": "California", "size": 475},
+      {"name": "Colorado", "size": 66},
+      {"name": "Connecticut", "size": 55}
+     ]
+    },
+    {
+     "name": "D",
+     "children": [
+      {"name": "D.C.", "size": 20},
+	  {"name": "Delaware", "size": 21}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "F-G",
+   "children": [
+    {"name": "Florida", "size": 214},
+    {"name": "Georgia", "size": 102},
+    {
+     "name": "H-I",
+     "children": [
+      {"name": "Hawaii", "size": 25},
+      {"name": "Idaho", "size": 23},
+      {"name": "Illinois", "size": 156},
+      {"name": "Indiana", "size": 83},
+      {"name": "Iowa", "size": 44}
+     ]
+    },
+    {"name": "Kansas", "size": 33},
+    {"name": "Kentucky", "size": 55},
+    {"name": "Lousiana", "size": 51},
+    {"name": "Maine", "size": 25},
+    {"name": "Maryland", "size": 95},
+    {"name": "Massachusetts", "size": 91},
+    {"name": "Michigan", "size": 130},
+    {"name": "Minnesota", "size": 77},
+    {"name": "Mississippi", "size": 36},
+	{"name": "Missouri", "size": 71},
+	{"name": "Montana", "size": 21}
+   ]
+  },
+  {
+   "name": "N",
+   "children": [
+    {
+     "name": "N",
+     "children": [
+      {"name": "Nebraska", "size": 25},
+      {"name": "Nevada", "size": 35},
+      {"name": "New Hampshire", "size": 24},
+      {"name": "New Jersey", "size": 126},
+      {"name": "New Mexico", "size": 34},
+	  {"name": "New York", "size": 247},
+	  {"name": "North Carolina", "size": 107},
+	  {"name": "North Dakota", "size": 18}
+     ]
+    },
+    {"name": "Ohio", "size": 143},
+    {"name": "Oklahoma", "size": 38},
+    {"name": "Oregon", "size": 61}
+   ]
+  },
+  {
+   "name": "P-S",
+   "children": [
+    {"name": "Pennsylvania", "size": 189},
+    {"name": "Rhode Island", "size": 24},
+    {"name": "South Carolina", "size": 53},
+    {"name": "South Dakota", "size": 20}
+   ]
+  },
+  {
+   "name": "T",
+   "children": [
+    {"name": "Tennessee", "size": 67},
+    {"name": "Texas", "size": 222},
+    {"name": "Territories", "size": 80}
+   ]
+  },
+  {
+   "name": "U",
+   "children": [
+    {"name": "Utah", "size": 33}
+   ]
+  },
+  {
+   "name": "V",
+   "children": [
+    {"name": "Vermont", "size": 16},
+    {"name": "Virginia", "size": 95}
+   ]
+  },
+  {
+   "name": "W",
+   "children": [
+    {"name": "Washington", "size": 101},
+    {"name": "West Virginia", "size": 29},
+    {"name": "Wisconsin", "size": 86},
+    {"name": "Wyoming", "size": 14}
+   ]
+  }
+ ]
+}

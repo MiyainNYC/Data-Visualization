@@ -1,0 +1,92 @@
+{
+ "name": "Top Occupations",
+ "children": [
+  {
+   "name": "Retired",
+   "children": [
+    {
+     "name": "281,677"
+    }
+   ]
+  },
+  {
+   "name": "Not Employed",
+   "children": [
+    {
+     "name": "103,809"
+    }
+   ]
+  },
+  {
+   "name": "Currently Employed",
+   "children": [
+    {
+     "name": "Attorney",
+     "children": [
+      {"name": "29,968", "size": 1302}
+     ]
+    },
+    {
+     "name": "Homemaker",
+     "children": [
+      {"name": "25,362", "size": 1302}
+     ]
+    },
+    {
+     "name": "Physician",
+     "children": [
+      {"name": "20,544", "size": 1302}
+     ]
+    },
+    {
+     "name": "Engineer",
+     "children": [
+      {"name": "14,561", "size": 1302}
+     ]
+    },
+    {
+     "name": "Teacher",
+     "children": [
+      {"name": "14,280", "size": 1302}
+     ]
+    },
+    {
+     "name": "Consultant",
+     "children": [
+      {"name": "13,365", "size": 1302}
+     ]
+    },
+    {
+     "name": "Sales",
+     "children": [
+      {"name": "9,886", "size": 1302}
+     ]
+    },
+    {
+     "name": "Professor",
+     "children": [
+      {"name": "9,885", "size": 1302}
+     ]
+    },
+    {
+     "name": "President",
+     "children": [
+      {"name": "7,842", "size": 1302}
+     ]
+    },
+    {
+     "name": "CEO",
+     "children": [
+      {"name": "7,766", "size": 1302}
+     ]
+    },
+    {
+     "name": "Others",
+     "children": [
+      {"name": "13,885", "size": 1302}
+     ]
+    }
+   ]
+  }
+ ]
+}
